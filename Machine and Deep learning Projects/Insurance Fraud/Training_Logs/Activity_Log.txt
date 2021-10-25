@@ -1,0 +1,1133 @@
+2021-09-03/10:59:50		Start of Validation on files for Training!!
+2021-09-03/10:59:50		Created Good Data Folder
+2021-09-03/10:59:50		Created Bad Data Folder
+2021-09-03/10:59:50		Accessed/Created Database Folder
+2021-09-03/10:59:50		Accessed Archive Folder
+2021-09-03/10:59:50		Accessed Good Data Folder in Archive Folder
+2021-09-03/10:59:50		Accessed Bad Data Folder in Archive Folder
+2021-09-03/10:59:50		Accessed Data Folder
+2021-09-03/10:59:50		Starting Raw Data Validation
+2021-09-03/10:59:50		Looking at the file fraudDetection_021119920_010222.csv
+2021-09-03/10:59:50		The file fraudDetection_021119920_010222.csv is named in correct format
+2021-09-03/10:59:50		The file fraudDetection_021119920_010222.csv has correct columnname and number of columns.
+2021-09-03/10:59:50		The file fraudDetection_021119920_010222.csv has no all null columns and number of columns.
+2021-09-03/10:59:50		The file fraudDetection_021119920_010222.csv has been moved to Good Data Folder
+2021-09-03/10:59:50		Completed Raw Data Validation
+2021-09-03/10:59:50		Starting Database Operations
+2021-09-03/10:59:50		Imported C:\Users\D100793\OneDrive - Citizens\Desktop\Krish Naik\Live Implementation Practice\Insurance Fraud\Good_Data\fraudDetection_021119920_010222.csv
+2021-09-03/10:59:50		%s: Quotes added successfully!!
+2021-09-03/10:59:50		Opened Insurance database successfully
+2021-09-03/10:59:50		Connection to the database Insurance has been established
+2021-09-03/10:59:50		Table tbl_training has been successfully created
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:50		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:51		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:52		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Data has been inserted successfully. Total 1000 records are inserted in tbl_training table
+2021-09-03/10:59:53		Exported Input.csv from the database Insurance
+2021-09-03/10:59:53		Connection to the database Insurance has been closed
+2021-09-03/10:59:53		Completed Raw Database Operations
+2021-09-03/10:59:53		Starting Folder Management Operations for Training data
+2021-09-03/10:59:53		Archiving Bad Files
+2021-09-03/10:59:53		There are no bad files to Archive
+2021-09-03/10:59:53		Archiving Good Files
+2021-09-03/10:59:53		Moved the file C:\Users\D100793\OneDrive - Citizens\Desktop\Krish Naik\Live Implementation Practice\Insurance Fraud\Good_Data\fraudDetection_021119920_010222.csv to the good data folder
+2021-09-03/10:59:53		Starting Folder Management Operations for Training data
+2021-09-03/10:59:53		Validation on files for Training Completed!!
+2021-09-03/10:59:53		Start of Training of data!!
+2021-09-03/10:59:53		Importing data!!
+2021-09-03/10:59:53		Start of Preprocessing of data!!
+2021-09-03/10:59:53		removing unnecessary spaces for categorical variables
+2021-09-03/10:59:53		removed unwanted spaces for categorical variables
+2021-09-03/10:59:53		Removing unwanted columns
+2021-09-03/10:59:53		Removed unwanted columns. Columns removed are policy_number,policy_bind_date,policy_state,insured_zip,incident_location,incident_date,incident_state,incident_city,insured_hobbies,auto_make,auto_model,auto_year
+2021-09-03/10:59:53		Cleaning data.
+2021-09-03/10:59:53		Replaced all ? with NaN.
+2021-09-03/10:59:53		Splitting necessary columns.
+2021-09-03/10:59:53		Deleted the columns which were split. Policy CSL column was split
+2021-09-03/10:59:54		Label encoding categorical variables
+2021-09-03/10:59:54		Label encoded categorical variables. The variables encoded are insured_education_level,incident_severity,insured_sex,property_damage,police_report_available,collision_type
+2021-09-03/10:59:54		One hot encoding encoding categorical variables
+2021-09-03/10:59:54		One hot encoded  categorical variables.The variables encoded are authorities_contacted,incident_type,insured_relationship,insured_occupation
+2021-09-03/10:59:54		Imputing Null values
+2021-09-03/10:59:55		Imputed null values using KNN imputer
+2021-09-03/10:59:55		Removing correlated columns
+2021-09-03/10:59:55		Removing unwanted columns
+2021-09-03/10:59:55		Removed unwanted columns. Columns removed are age,total_claim_amount
+2021-09-03/10:59:55		Removed correlated columns. Columns removed are age,total_claim_amount
+2021-09-03/10:59:55		End of Preprocessing of data!!
+2021-09-03/10:59:55		Start of Scaling of data!!
+2021-09-03/10:59:55		Splitting Predictors and response
+2021-09-03/10:59:55		Predictors and Response have been split
+2021-09-03/10:59:55		Performed Min Max Scaling on selected insured_education_level,incident_severity,property_damage columns and standard sclaing on months_as_customer,policy_deductable,policy_annual_premium,umbrella_limit,capital_gains,capital_loss,incident_hour_of_the_day,number_of_vehicles_involved,bodily_injuries,witnesses,injury_claim,property_claim,vehicle_claim,policy_csl_used,policy_csl_used_available columns
+2021-09-03/10:59:55		End of Scaling of data!!
+2021-09-03/10:59:55		Start of Clustering of data!!
+2021-09-03/10:59:55		Entered the elbow diagram method of the KMeansClustering class
+2021-09-03/10:59:56		The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2021-09-03/10:59:56		Entered the elbow diagram method of the KMeansClustering class
+2021-09-03/10:59:57		The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2021-09-03/10:59:57		Adding cluster number to the training dataframe.
+2021-09-03/10:59:57		Added cluster number to the training dataframe.
+2021-09-03/10:59:57		Created Kmeans folder to save the models best estimator
+2021-09-03/10:59:57		Model saved in the path C:\Users\D100793\OneDrive - Citizens\Desktop\Krish Naik\Live Implementation Practice\Insurance Fraud\Model\Kmeans\
+2021-09-03/10:59:57		End of Clustering of data!!
+2021-09-03/10:59:57		Running Model for cluster number 0
+2021-09-03/10:59:57		Start of finding best model!!
+2021-09-03/11:00:25		Checking for the best model
+2021-09-03/11:00:25		Testing the model Decision_Tree
+2021-09-03/11:00:25		The best model is Decision_Tree
+2021-09-03/11:00:25		Testing the model XG_Boost
+2021-09-03/11:00:25		The best model is Decision_Tree
+2021-09-03/11:00:25		Testing the model Random_Forest
+2021-09-03/11:00:25		The best model is Decision_Tree
+2021-09-03/11:00:25		Testing the model SVM
+2021-09-03/11:00:25		The best model is Decision_Tree
+2021-09-03/11:00:25		Testing the model Logistic_Regression
+2021-09-03/11:00:25		The best model is Decision_Tree
+2021-09-03/11:00:25		The best model is Decision_Tree!!
+2021-09-03/11:00:25		Created Decision_Tree folder to save the models best estimator
+2021-09-03/11:00:25		Model saved in the path C:\Users\D100793\OneDrive - Citizens\Desktop\Krish Naik\Live Implementation Practice\Insurance Fraud\Model\cluster 0\
+2021-09-03/11:00:25		Running Model for cluster number 1
+2021-09-03/11:00:25		Start of finding best model!!
+2021-09-03/11:00:55		Checking for the best model
+2021-09-03/11:00:55		Testing the model Decision_Tree
+2021-09-03/11:00:55		The best model is Decision_Tree
+2021-09-03/11:00:55		Testing the model XG_Boost
+2021-09-03/11:00:55		The best model is XG_Boost
+2021-09-03/11:00:55		Testing the model Random_Forest
+2021-09-03/11:00:55		The best model is XG_Boost
+2021-09-03/11:00:55		Testing the model SVM
+2021-09-03/11:00:55		The best model is XG_Boost
+2021-09-03/11:00:55		Testing the model Logistic_Regression
+2021-09-03/11:00:55		The best model is XG_Boost
+2021-09-03/11:00:55		The best model is XG_Boost!!
+2021-09-03/11:00:55		Created XG_Boost folder to save the models best estimator
+2021-09-03/11:00:55		Model saved in the path C:\Users\D100793\OneDrive - Citizens\Desktop\Krish Naik\Live Implementation Practice\Insurance Fraud\Model\cluster 1\
+2021-09-03/11:00:55		Running Model for cluster number 2
+2021-09-03/11:00:55		Start of finding best model!!
+2021-09-03/11:01:21		Checking for the best model
+2021-09-03/11:01:21		Testing the model Decision_Tree
+2021-09-03/11:01:21		The best model is Decision_Tree
+2021-09-03/11:01:21		Testing the model XG_Boost
+2021-09-03/11:01:21		The best model is Decision_Tree
+2021-09-03/11:01:21		Testing the model Random_Forest
+2021-09-03/11:01:21		The best model is Decision_Tree
+2021-09-03/11:01:21		Testing the model SVM
+2021-09-03/11:01:21		The best model is Decision_Tree
+2021-09-03/11:01:21		Testing the model Logistic_Regression
+2021-09-03/11:01:21		The best model is Decision_Tree
+2021-09-03/11:01:21		The best model is Decision_Tree!!
+2021-09-03/11:01:21		Created Decision_Tree folder to save the models best estimator
+2021-09-03/11:01:21		Model saved in the path C:\Users\D100793\OneDrive - Citizens\Desktop\Krish Naik\Live Implementation Practice\Insurance Fraud\Model\cluster 2\
+2021-09-03/11:01:21		Running Model for cluster number 3
+2021-09-03/11:01:21		Start of finding best model!!
+2021-09-03/11:01:44		Checking for the best model
+2021-09-03/11:01:44		Testing the model Random_Forest
+2021-09-03/11:01:44		The best model is Random_Forest
+2021-09-03/11:01:44		Testing the model XG_Boost
+2021-09-03/11:01:44		The best model is Random_Forest
+2021-09-03/11:01:44		Testing the model Decision_Tree
+2021-09-03/11:01:44		The best model is Random_Forest
+2021-09-03/11:01:44		Testing the model SVM
+2021-09-03/11:01:44		The best model is Random_Forest
+2021-09-03/11:01:44		Testing the model Logistic_Regression
+2021-09-03/11:01:44		The best model is Random_Forest
+2021-09-03/11:01:44		The best model is Random_Forest!!
+2021-09-03/11:01:44		Created Random_Forest folder to save the models best estimator
+2021-09-03/11:01:44		Model saved in the path C:\Users\D100793\OneDrive - Citizens\Desktop\Krish Naik\Live Implementation Practice\Insurance Fraud\Model\cluster 3\
+2021-09-03/11:01:44		Model Training Completed!!

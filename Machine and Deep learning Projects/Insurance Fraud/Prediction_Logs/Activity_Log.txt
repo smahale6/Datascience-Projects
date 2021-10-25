@@ -1,0 +1,582 @@
+2021-09-03/11:02:34		Start of Validation on files for prediction!!
+2021-09-03/11:02:34		Created Good Data Folder
+2021-09-03/11:02:34		Created Bad Data Folder
+2021-09-03/11:02:34		Accessed/Created Database Folder
+2021-09-03/11:02:34		Accessed Archive Folder
+2021-09-03/11:02:34		Accessed Good Data Folder in Archive Folder
+2021-09-03/11:02:34		Accessed Bad Data Folder in Archive Folder
+2021-09-03/11:02:34		Accessed Data Folder
+2021-09-03/11:02:34		Starting Raw Data Validation
+2021-09-03/11:02:34		Looking at the file fraudDetection_033119920_010222.csv
+2021-09-03/11:02:34		The file fraudDetection_033119920_010222.csv is named in correct format
+2021-09-03/11:02:34		The file fraudDetection_033119920_010222.csv has correct columnname and number of columns.
+2021-09-03/11:02:34		The file fraudDetection_033119920_010222.csv has no all null columns and number of columns.
+2021-09-03/11:02:34		The file fraudDetection_033119920_010222.csv has been moved to Good Data Folder
+2021-09-03/11:02:34		Completed Raw Data Validation
+2021-09-03/11:02:34		Starting Database Operations
+2021-09-03/11:02:34		Imported C:\Users\D100793\OneDrive - Citizens\Desktop\Krish Naik\Live Implementation Practice\Insurance Fraud\Good_Data\fraudDetection_033119920_010222.csv
+2021-09-03/11:02:34		%s: Quotes added successfully!!
+2021-09-03/11:02:34		Opened Insurance database successfully
+2021-09-03/11:02:34		Connection to the database Insurance has been established
+2021-09-03/11:02:34		Table tbl_prediction has been successfully created
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:34		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:35		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Data has been inserted successfully. Total 500 records are inserted in tbl_prediction table
+2021-09-03/11:02:36		Exported Input.csv from the database Insurance
+2021-09-03/11:02:36		Connection to the database Insurance has been closed
+2021-09-03/11:02:36		Completed Raw Database Operations
+2021-09-03/11:02:36		Starting Folder Management Operations for prediction data
+2021-09-03/11:02:36		Archiving Bad Files
+2021-09-03/11:02:36		There are no bad files to Archive
+2021-09-03/11:02:36		Archiving Good Files
+2021-09-03/11:02:36		Moved the file C:\Users\D100793\OneDrive - Citizens\Desktop\Krish Naik\Live Implementation Practice\Insurance Fraud\Good_Data\fraudDetection_033119920_010222.csv to the good data folder
+2021-09-03/11:02:36		Starting Folder Management Operations for prediction data
+2021-09-03/11:02:36		Validation on files for prediction Completed!!
+2021-09-03/11:02:36		Start of Prediction of data!!
+2021-09-03/11:02:36		Importing data!!
+2021-09-03/11:02:36		Start of Preprocessing of data!!
+2021-09-03/11:02:36		removing unnecessary spaces for categorical variables
+2021-09-03/11:02:36		removed unwanted spaces for categorical variables
+2021-09-03/11:02:36		Removing unwanted columns
+2021-09-03/11:02:36		Removed unwanted columns. Columns removed are policy_number,policy_bind_date,policy_state,insured_zip,incident_location,incident_date,incident_state,incident_city,insured_hobbies,auto_make,auto_model,auto_year
+2021-09-03/11:02:36		Cleaning data.
+2021-09-03/11:02:36		Replaced all ? with NaN.
+2021-09-03/11:02:36		Splitting necessary columns.
+2021-09-03/11:02:36		Deleted the columns which were split. Policy CSL column was split
+2021-09-03/11:02:38		Label encoding categorical variables
+2021-09-03/11:02:38		Label encoded categorical variables. The variables encoded are insured_education_level,incident_severity,insured_sex,property_damage,police_report_available,collision_type
+2021-09-03/11:02:38		One hot encoding encoding categorical variables
+2021-09-03/11:02:38		One hot encoded  categorical variables.The variables encoded are authorities_contacted,incident_type,insured_relationship,insured_occupation
+2021-09-03/11:02:38		Imputing Null values
+2021-09-03/11:02:38		Imputed null values using KNN imputer
+2021-09-03/11:02:38		Removing correlated columns
+2021-09-03/11:02:38		Removing unwanted columns
+2021-09-03/11:02:38		Removed unwanted columns. Columns removed are age,total_claim_amount
+2021-09-03/11:02:38		Removed correlated columns. Columns removed are age,total_claim_amount
+2021-09-03/11:02:38		End of Preprocessing of data!!
+2021-09-03/11:02:38		Start of Scaling of data!!
+2021-09-03/11:02:38		Splitting Predictors and response
+2021-09-03/11:02:38		Predictors and Response have been split
+2021-09-03/11:02:38		Performed Min Max Scaling on selected insured_education_level,incident_severity,property_damage columns and standard sclaing on months_as_customer,policy_deductable,policy_annual_premium,umbrella_limit,capital_gains,capital_loss,incident_hour_of_the_day,number_of_vehicles_involved,bodily_injuries,witnesses,injury_claim,property_claim,vehicle_claim,policy_csl_used,policy_csl_used_available columns
+2021-09-03/11:02:38		Start of Clustering of data!!
+2021-09-03/11:02:38		Entered the load_model method of the File_Operation class
+2021-09-03/11:02:38		Model File Kmeans loaded. Exited the load_model method of the Model_Finder class
+2021-09-03/11:02:38		End of Clustering of data!!
+2021-09-03/11:02:38		Running Model for cluster number 0
+2021-09-03/11:02:38		Finding best estimator
+2021-09-03/11:02:38		The best estimator is Decision_Tree
+2021-09-03/11:02:38		Entered the load_model method of the File_Operation class
+2021-09-03/11:02:38		Model File Decision_Tree loaded. Exited the load_model method of the Model_Finder class
+2021-09-03/11:02:38		Running Model for cluster number 1
+2021-09-03/11:02:38		Finding best estimator
+2021-09-03/11:02:38		The best estimator is XG_Boost
+2021-09-03/11:02:38		Entered the load_model method of the File_Operation class
+2021-09-03/11:02:38		Model File XG_Boost loaded. Exited the load_model method of the Model_Finder class
+2021-09-03/11:02:38		Running Model for cluster number 2
+2021-09-03/11:02:38		Finding best estimator
+2021-09-03/11:02:38		The best estimator is Decision_Tree
+2021-09-03/11:02:38		Entered the load_model method of the File_Operation class
+2021-09-03/11:02:38		Model File Decision_Tree loaded. Exited the load_model method of the Model_Finder class
+2021-09-03/11:02:38		Running Model for cluster number 3
+2021-09-03/11:02:38		Finding best estimator
+2021-09-03/11:02:38		The best estimator is Random_Forest
+2021-09-03/11:02:38		Entered the load_model method of the File_Operation class
+2021-09-03/11:02:38		Model File Random_Forest loaded. Exited the load_model method of the Model_Finder class
+2021-09-03/11:02:38		Prediction Completed!!

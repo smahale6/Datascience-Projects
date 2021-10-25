@@ -1,0 +1,15 @@
+,model,best_score,best_params,best_estimators
+0,KNN,0.756,"{'leaf_size': 1, 'n_neighbors': 23, 'p': 1}","KNeighborsClassifier(leaf_size=1, n_neighbors=23, p=1)"
+1,Logistic Regression,0.743,{'C': 2},"LogisticRegression(C=2, solver='liblinear')"
+2,Random Forest,0.772,{'n_estimators': 23},RandomForestClassifier(n_estimators=23)
+3,Decision Tree,0.8030000000000002,"{'criterion': 'entropy', 'min_samples_leaf': 35, 'splitter': 'random'}","DecisionTreeClassifier(criterion='entropy', min_samples_leaf=35,
+                       splitter='random')"
+4,SVM,0.7529999999999999,"{'C': 1, 'kernel': 'rbf'}","SVC(C=1, gamma='auto')"
+5,XG_Boost,0.798,"{'criterion': 'gini', 'max_depth': 2, 'n_estimators': 10}","XGBClassifier(base_score=0.5, booster='gbtree', colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=1, criterion='gini', gamma=0,
+              gpu_id=-1, importance_type='gain', interaction_constraints='',
+              learning_rate=0.300000012, max_delta_step=0, max_depth=2,
+              min_child_weight=1, missing=nan, monotone_constraints='()',
+              n_estimators=10, n_jobs=12, num_parallel_tree=1, random_state=0,
+              reg_alpha=0, reg_lambda=1, scale_pos_weight=1, subsample=1,
+              tree_method='exact', validate_parameters=1, verbosity=None)"

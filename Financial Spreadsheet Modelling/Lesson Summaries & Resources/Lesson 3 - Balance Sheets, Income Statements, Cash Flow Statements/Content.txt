@@ -1,0 +1,23 @@
+Balance Sheets, Income Statements, Cash Flow Statements
+Overview: This week’s lessons provide a review of financial statements, including two types of cash flow statements
+
+Objective(s): Utilize Excel functions to complete and build balance sheets, income statements, and cash flow statements (Excel/Modeling & Finance)
+
+Learning Outcomes:  By the end of the week, you will be able to:
+
+Complete an accounting statement of cash flows
+Complete CF from Assets, CF to Bondholders, CF to Stockholders
+Build all identified statements in Excel
+e-lecture Videos in Canvas:
+
+Lesson 3.1: “Cash is King”
+Lesson 3.2: Balance sheet and income statement review part 1
+Lesson 3.3: Balance sheet and income statement review part 2
+Lesson 3.4: Build accounting statement of cash flow
+Lesson 3.5 Build cash flow from assets
+Lesson 3.6: Build cash flow to debt holders
+Lesson 3.7 Build cash flow to equity holders
+Assignments, Activities, Assessments, and/or Readings:  
+
+Complete the posted Excel file(s), following along with the videos in edX
+Check syllabus for all assignments and due dates

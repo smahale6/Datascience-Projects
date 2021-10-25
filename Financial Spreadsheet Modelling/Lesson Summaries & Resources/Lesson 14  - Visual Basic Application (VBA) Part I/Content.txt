@@ -1,0 +1,21 @@
+VBA Part (I)
+Overview: This module provides instruction on how to build VBA models which are finance related.
+
+Objective(s):  Build financed related VBA models (Excel/Modeling & Finance)
+
+Learning Outcomes:
+
+At the end of this lesson you will be able to:
+
+Build VBA models on finance related applications
+e-lecture Videos in Canvas:
+
+Lesson 14.1: VBA and Macro Introduction
+Lesson 14.2: VBA FV Lump Sum
+Lesson 14.3 VBA PV Annuity
+Lesson 14.4: VBA FV Annuity
+Lesson 14:5: VBA Buttons
+Assignments, Activities, Assessments, and/or Readings
+
+Complete the posted Excel file(s), following along with the videos in edX
+Check syllabus for all assignments and due dates

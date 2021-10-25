@@ -1,0 +1,21 @@
+Excel Tips
+Overview: This week’s lessons provide instruction on more Excel tips
+
+Objective(s):  Create professional spreadsheets in Excel (Excel/Modeling)
+
+Learning Outcomes:
+
+At the end of this lesson you will be able to:
+
+Utilize helpful tips to create professional looking spreadsheets in Excel
+e-lecture Videos in Canvas:
+
+Lesson 11.1: Printing Tips and Watermarks
+Lesson 11.2: Subrcripts, Superscripts, Greek Letters, & Writing Simple Formulas
+Lesson 11.3: Auditing Formulas
+Lesson 11.4: Formatting the Spreadsheet/Models
+Lesson 11.5: Data Validation Example with Our Model
+Assignments, Activities, Assessments, and/or Readings
+
+Complete the posted Excel file(s), following along with the videos in edX
+Check syllabus for all assignments and due dates

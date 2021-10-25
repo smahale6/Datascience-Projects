@@ -1,0 +1,18 @@
+Sensitivity Analysis
+Overview: This week’s lessons provide instruction on changing assumptions in models and evaluating the impact of changes
+
+Objective(s):  Evaluate changes in a specified model (Excel/Modeling & Finance)
+
+Learning Outcomes:
+
+By the end of the week students will be able to:
+
+Evaluate changes in assumptions for valuation models
+e-lecture Videos in Canvas:
+
+Lecture 7.1: Data Tables
+Lecture 7.2: Graphing the Sensitivity Analysis Tornado Charts
+Assignments, Activities, Assessments, and/or Readings:
+
+Complete the posted Excel file(s), following along with the videos in edX
+Check syllabus for all assignments and due dates

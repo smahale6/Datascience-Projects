@@ -1,0 +1,20 @@
+Comparable Analysis and Football Field Graph
+Overview: This week’s lessons provide instruction on how to perform comparable analysis and build a “football field” graph/analysis
+
+Pre-Work: Prior to participating in Week 9 activities, complete the Lecture 9 instructions provided in the LMS (Learning Management System).
+Objective(s): (1) Utilize appropriate tools and data to value a firm; (2) build a football field graph/analysis (Excel/Modeling & Finance)
+
+Learning Outcomes:
+
+By the end of this lesson you will be able to:
+
+Value a firm with comparable analysis and build a football field graph/analysis
+e-lecture Videos in Canvas:
+
+Lecture 9.1: Comparable Analysis (Part I)
+Lecture 9.2: Comparable Analysis (Part II)
+Lecture 9.3: Football Field Graph
+Assignments, Activities, Assessments, and/or Readings:
+
+Complete the posted Excel file(s), following along with the videos in edX
+Check syllabus for all assignments and due dates

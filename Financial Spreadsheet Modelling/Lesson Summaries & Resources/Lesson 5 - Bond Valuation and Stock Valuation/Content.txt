@@ -1,0 +1,28 @@
+Bond Valuation and Stock Valuation
+Overview: This week’s lessons provide detailed instruction on bond and stock valuation as well as duration, convexity, and immunization
+
+Objective(s):  Demonstrate bond valuation & stock valuation concepts using several methods (Excel/Modeling & Finance)
+
+Learning Outcomes:
+
+By the end of the week, students will be able to do the following in Excel:
+
+Explain what a bond is, how to find its price, how to find its expected return (Yield to maturity, YTM)
+Compute the duration and convexity of a bond and understand its meaning
+Immunize a bond portfolio and understand the use of immunization for a portfolio
+Identify what a stock is, as well as the dividend discount model
+Build a model to find the price of a stock
+e-lecture Videos in Canvas:
+
+Lesson 5.1: Bond Explanation/Terminology
+Lesson 5.2: Bond Price Examples
+Lesson 5.3: Bond Yield to Maturity Examples
+Lesson 5.4: Bond Duration and Convexity
+Lesson 5.5: Bond Immunization
+Lesson 5.6: Stock Explanation/Terminology
+Lesson 5.7: Constant Dividend Growth Model
+Lesson 5.8: Non-constant Dividend Growth Model
+Assignments, Activities, Assessments, and/or Readings:
+
+Complete the posted Excel file(s), following along with the videos in edX
+Check syllabus for all assignments and due dates

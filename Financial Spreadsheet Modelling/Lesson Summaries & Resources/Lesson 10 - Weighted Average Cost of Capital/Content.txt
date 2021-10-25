@@ -1,0 +1,22 @@
+Weighted Average Cost of Capital
+Overview: This week’s lessons provide instruction on how to compute a firm’s weighted average cost of capital (WACC)
+
+Objective(s):  Compute required return for WACC (Excel/Modeling & Finance)
+
+Learning Outcomes:
+
+By the end of this lesson you will be able to:
+
+Compute the required return for a firm’s WACC
+e-lecture Videos in Canvas:
+
+Lesson 10.1: WACC, Weighted Average Cost of Capital
+Lesson 10.2: Required Return to Equityholders
+Lesson 10.3: Computation of Beta and Market Value of Equity
+Lesson 10.4: Computation of Market Value of Debt and Weighted YTM
+Lesson 10.5: WACC, Putting it all Together!
+Lesson 10.6: Sensitivity of WACC and Summarizing the Entire Valuation File
+Assignments, Activities, Assessments, and/or Readings:
+
+Complete the posted Excel file(s), following along with the videos in edX
+Check syllabus for all assignments and due dates

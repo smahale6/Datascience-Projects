@@ -1,0 +1,46 @@
+Overview: This week’s lessons provide a review of Excel shortcuts and basic functions
+
+Objective(s): Identify Excel shortcuts and basic functions through on screen demonstrations (Excel/Modeling)
+
+Learning Outcomes:  By the end of the week, students will be able to:
+
+
+Excel Tasks and Tools Part I
+
+Identify and repeat the most common/basic Excel shortcuts & functions
+e-lecture Videos in Canvas:
+
+Lesson 1.1: Navigating the Spreadsheet and Shortcut Key Practice
+Lesson 1.2: Basic Functions
+Lesson 1.3: Absolute/Relative Reference
+Lesson 1.4: If Statements and Nested If Statements
+Lesson 1.5: Autofill
+Lesson 1.6: Naming Ranges
+Lesson 1.7: Freezing Panes
+Lesson 1.8: Index & Match
+Lesson 1.9: Matrix Multiplication
+Assignments, Activities, and/or Readings
+
+Complete the posted Excel file(s), following along with the videos in edX
+Check syllabus for all assignments and due dates
+
+---------------------------------------------------------------------------------------------------------------------------------
+Excel Tasks and Tools Part II
+Overview: This week’s lessons provide a continued review of Excel shortcuts and functions
+
+Objective(s):  Identify Excel shortcuts and basic functions through on screen demonstrations (Excel/Modeling)
+
+Learning Outcomes:  By the end of the week, students will be able to:
+
+Identify and repeat more complex/difficult Excel functions
+e-lecture Videos in Canvas:
+
+Lesson 2.1: Solver
+Lesson 2.2: Pivot tables
+Lesson 2.3: Sensitivity analysis
+Lesson 2.4: Creating a button
+Lesson 2.5: VLOOKUP
+Assignments, Activities, Assessments, and/or Readings
+
+Complete the posted Excel file(s), following along with the videos in edX
+Check syllabus for all assignments and due dates

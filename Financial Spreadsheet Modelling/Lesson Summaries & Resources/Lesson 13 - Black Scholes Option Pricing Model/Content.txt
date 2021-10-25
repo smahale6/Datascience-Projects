@@ -1,0 +1,19 @@
+Black Scholes Option Pricing Model
+Overview: This module provides instruction on the Black-Scholes option pricing model
+
+Objective(s):  Build the Black-Scholes pricing model in Excel (Excel/Modeling & Finance)
+
+Learning Outcomes:
+
+At the end of this lesson you will be able to:
+
+Utilize the appropriate data and tools to build the Black-Scholes option pricing model in Excel
+e-lecture Videos in Canvas:
+
+Lesson 13:1: Review of Basics Options: Calls & Puts
+Lesson 13.2: Option Pricing Model Example (on paper)
+Lesson 13.3: Option Pricing Model Excel
+Assignments, Activities, Assessments, and/or Readings:
+
+Complete the posted Excel file(s), following along with the videos in edX
+Check syllabus for all assignments and due dates

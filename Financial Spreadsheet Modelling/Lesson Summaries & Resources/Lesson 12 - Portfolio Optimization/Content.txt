@@ -1,0 +1,20 @@
+Portfolio Optimization
+Overview: This week’s lessons provide instruction on computing individual stock mean and standard deviation, putting two stocks in a portfolio, and finding the optimal portfolio
+
+Objective(s): (1) Utilize appropriate tools and data to compute individual stock statistics; (2) Find efficient/optimal portfolios (Excel/Modeling & Finance)
+
+Learning Outcomes:
+
+At the end of this lesson you will be able to:
+
+Compute individual stock and portfolio statistics as well as find efficient/optimal portfolios
+e-lecture Videos in Canvas:
+
+Lesson 12.1: Review of Statistics Functions
+Lesson 12.2: Computing Statistics for Single Stocks
+Lesson 12.3: Combining Two Stocks in a Portfolio
+Lesson 12.4: Finding an Efficient Portfolio
+Assignments, Activities, Assessments, and/or Readings: 
+
+Complete the posted Excel file(s), following along with the videos edX
+Check syllabus for all assignments and due dates

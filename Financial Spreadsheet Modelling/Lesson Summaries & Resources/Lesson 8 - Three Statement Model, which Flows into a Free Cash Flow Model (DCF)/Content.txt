@@ -1,0 +1,23 @@
+Three Statement Model; build into a free cash flow model
+Overview: This week’s lessons provide instruction on how to build a three-statement model
+
+Objective(s):  Create a three-statement model (Excel/Modeling & Finance)
+
+Learning Outcomes:
+
+By the end of the week students will be able to:
+
+Accurately create a three-statement model using the appropriate tools
+e-lecture Videos in Canvas:
+
+Lesson 8.1: Three statement Models
+Lesson 8.2: Finding Three  Statements
+Lesson 8.3: Building the Forecast of Income Statement
+Lesson 8.4: Building a Forecast of Balance Sheet
+Lesson 8.5: Building the Cash Flow Forecast
+Lesson 8.6: Creating Free Cash to Firm from 3 Statement Forecasts
+Lesson 8.7: Sensitivity Analysis
+Assignments, Activities, Assessments, and/or Readings:
+
+Complete the posted Excel file(s), following along with the videos in edX
+Check syllabus for all assignments and due dates

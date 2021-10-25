@@ -1,0 +1,28 @@
+Time Value of Money Concepts
+Overview: This week’s lessons provide instruction on how to calculate time value of money methods
+
+Objective(s):  Demonstrate & calculate time value of money concepts using several methods (Excel/Modeling & Finance)
+
+Learning Outcomes:
+
+By the end of the week students will be able to use several methods (Mathematically, Excel basic functions, Excel TVM functions) to:
+
+Compute the future value and present value of lump sums
+Compute the period and interest rates for lump sums
+Compute the present value and future value of ordinary annuities and annuities due
+Compute the present and future value of an uneven cash flow stream
+Use the appropriate technology to develop an amortization schedule for a loan
+Use the appropriate technology to build a retirement model/plan
+e-lecture Videos in Canvas:
+
+Lesson 4.1: What is time value of money?
+Lesson 4.2: Present and future values of lump sums
+Lesson 4.3: Fair prices vs market prices & required returns vs expected returns
+Lesson 4.4: Annuities
+Lesson 4.5: Uneven cash flow stream
+Lesson 4.6: Amortized loans: Mortgages and car loans
+Lesson 4.7: Retirement examples
+Assignments, Activities, Assessments, and/or Readings:
+
+Complete the posted Excel file(s), following along with the videos in edX
+Check syllabus for all assignments and due dates

@@ -1,0 +1,30 @@
+Capital Budgeting Model and Valuation Model
+
+Overview: This week’s lessons provide instruction regarding two models: (1) Finite capital budgeting and (2) infinite valuation model
+
+Objective(s):  Accurately create and evaluate the value of a capital budgeting model and valuation model using various methods (Excel/Modeling & Finance)
+
+Learning Outcomes:
+
+By the end of the week students will be able to:
+
+Build a capital budgeting model and evaluate its value
+Build firm valuation model, using several methods
+e-lecture Videos in Canvas:
+
+Lecture 6.1: What is a Capital Budget
+Lecture 6.2: Capital Budgeting Techniques: Cash Flows Given
+Lecture 6.3: Building Cash Flows from a Capital Budgeting Project
+Lecture 6.4: Free Cash Flow to the Firm and Equity Holders, APV Model
+Lecture 6.5: Required Return for FCFF, FCFE, and APV Model
+Lecture 6.6: Simple Valuation Model
+Lecture 6.7: Building an Assumption/Input Table
+Lecture 6.8: Building Free Cash Flows to Firm Finite Period
+Lecture 6.9: Building Free Cash Flows to Equityholders: Finite Period
+Lecture 6.10: Building APV Model Cash Flows: Infinite Period Building Capital Structure & Required Returns
+Lecture 6.11: Free Cash Flow to Firm; Free Cash Flow to Equityholders; Infinite Time Period
+Lecture 6.12: Capital Budgeting Project
+Assignments, Activities, Assessments, and/or Readings:
+
+Complete the posted Excel file(s), following along with the videos in edX
+Check syllabus for all assignments and due dates

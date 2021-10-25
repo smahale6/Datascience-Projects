@@ -1,0 +1,455 @@
+{
+	"info": {
+		"_postman_id": "20eadb96-b7c7-444c-a0ac-7cd82361b826",
+		"name": "1upHealth API Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "1. Create New User",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"var jsonData = JSON.parse(responseBody);",
+							"postman.setEnvironmentVariable(\"code\", jsonData.code);"
+						]
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://api.1up.health/user-management/v1/user?app_user_id=your_first_user&client_id={{client_id}}&client_secret={{client_secret}}",
+					"protocol": "https",
+					"host": [
+						"api",
+						"1up",
+						"health"
+					],
+					"path": [
+						"user-management",
+						"v1",
+						"user"
+					],
+					"query": [
+						{
+							"key": "app_user_id",
+							"value": "your_first_user"
+						},
+						{
+							"key": "client_id",
+							"value": "{{client_id}}"
+						},
+						{
+							"key": "client_secret",
+							"value": "{{client_secret}}"
+						}
+					]
+				},
+				"description": "An application can create users via the following call. You will need to replace clientid and clientsecret with the values you obtained when you registered and created your 1upHealth application (visit https://1up.health/dev/quick-start).\n\nEach response will contain the new user's oneup_user_id, access_token, refresh_token, and app_user_id. The app_user_id helps you keep track of users between the 1up API and your own user management system. This must be a unique value for your application."
+			},
+			"response": []
+		},
+		{
+			"name": "2. Generate New Authorization Code for Existing User",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"var jsonData = JSON.parse(responseBody);",
+							"postman.setEnvironmentVariable(\"code\", jsonData.code);"
+						]
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://api.1up.health/user-management/v1/user/auth-code?app_user_id=your_first_user&client_id={{client_id}}&client_secret={{client_secret}}",
+					"protocol": "https",
+					"host": [
+						"api",
+						"1up",
+						"health"
+					],
+					"path": [
+						"user-management",
+						"v1",
+						"user",
+						"auth-code"
+					],
+					"query": [
+						{
+							"key": "app_user_id",
+							"value": "your_first_user"
+						},
+						{
+							"key": "client_id",
+							"value": "{{client_id}}"
+						},
+						{
+							"key": "client_secret",
+							"value": "{{client_secret}}"
+						}
+					]
+				},
+				"description": "If you need a new auth code for a user you already created on 1upHealth, you can make a request via the following method with clientid and clientsecret values replaced with your registered application's values via the environment variables in the upper right corner.\n\nThe code variable is the OAuth2 access code. You must exchange that to get the OAuth2 access token by following the the OAuth2 token grant steps. The access_token and refresh_token will be used to gain access to user data. Keep those secure via HIPAA compliant means of transmission and storage, along with all other patient data. The auth token expires after 7200 seconds (2 hours)."
+			},
+			"response": []
+		},
+		{
+			"name": "3. Exchange Authorization Code for Access Token",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"var jsonData = JSON.parse(responseBody);",
+							"postman.setEnvironmentVariable(\"access_token\", jsonData.access_token);",
+							"postman.setEnvironmentVariable(\"refresh_token\", jsonData.refresh_token);"
+						]
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "client_id",
+							"value": "{{client_id}}",
+							"type": "text"
+						},
+						{
+							"key": "client_secret",
+							"value": "{{client_secret}}",
+							"type": "text"
+						},
+						{
+							"key": "code",
+							"value": "{{code}}",
+							"type": "text"
+						},
+						{
+							"key": "grant_type",
+							"value": "authorization_code",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://auth.1up.health/oauth2/token",
+					"protocol": "https",
+					"host": [
+						"auth",
+						"1up",
+						"health"
+					],
+					"path": [
+						"oauth2",
+						"token"
+					]
+				},
+				"description": "Use the following API call to exchange the OAuth Access Code received in \"1. Create New User\" or \"2. Generate New Auth Code for Existing User\".\n\nThe code variable is the OAuth2 access code. You must exchange that to get the OAuth2 access token by following the the OAuth2 token grant steps. The access_token and refresh_token will be used to gain access to user data. Keep those secure via HIPAA compliant means of transmission and storage, along with all other patient data. The auth token expires after 7200 seconds (2 hours).\n\nYou must also replace the values for clientid and clientsecret with values obtained when registering your application (visit https://1up.health/dev/quick-start)."
+			},
+			"response": []
+		},
+		{
+			"name": "4. Get New Access Token with Refresh Token",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"var jsonData = JSON.parse(responseBody);",
+							"postman.setEnvironmentVariable(\"access_token\", jsonData.access_token);",
+							"postman.setEnvironmentVariable(\"refresh_token\", jsonData.refresh_token);"
+						]
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "client_id",
+							"value": "{{client_id}}",
+							"type": "text"
+						},
+						{
+							"key": "client_secret",
+							"value": "{{client_secret}}",
+							"type": "text"
+						},
+						{
+							"key": "refresh_token",
+							"value": "{{refresh_token}}",
+							"type": "text"
+						},
+						{
+							"key": "grant_type",
+							"value": "refresh_token",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://auth.1up.health/oauth2/token",
+					"protocol": "https",
+					"host": [
+						"auth",
+						"1up",
+						"health"
+					],
+					"path": [
+						"oauth2",
+						"token"
+					]
+				},
+				"description": "Once 7200 seconds passes (which is 2 hours), the access_token will no longer be valid. To get a new token, you can either use the refresh token you received in step 3 (Exchange OAuth Access Code for Access Token) via the call below, or you can follow steps 2 and 3 above to get a new OAuth Access Token.\n\nYou must also replace the values for clientid and clientsecret with values obtained when registering your application (visit https://1up.health/dev/quick-start)."
+			},
+			"response": []
+		},
+		{
+			"name": "5. Create Patient Resource",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"resourceType\": \"Patient\",\n  \"id\": \"ExamplePatient1\",\n  \"meta\": {\n    \"lastUpdated\": \"2020-10-30T09:48:01.8512764-04:00\",\n    \"source\": \"Organization/PayerOrganizationExample1\",\n    \"profile\": [\n      \"http://hl7.org/fhir/us/carin-bb/StructureDefinition/C4BB-Patient\"\n    ]\n  },\n  \"language\": \"en-US\",\n  \"text\": {\n    \"status\": \"generated\",\n    \"div\": \"<div xmlns=\\\"http://www.w3.org/1999/xhtml\\\" xml:lang=\\\"en-US\\\" lang=\\\"en-US\\\"><p><b>Generated Narrative</b></p><p><b>identifier</b>: An identifier for the insured of an insurance policy (this insured always has a subscriber), usually assigned by the insurance carrier.: 88800933501</p><p><b>active</b>: true</p><p><b>name</b>: Member 01 Test </p><p><b>telecom</b>: ph: 5555555551, ph: 5555555552, ph: 5555555553, ph: 5555555554, ph: 5555555555(HOME), ph: 5555555556(WORK), <a href=\\\"mailto:GXXX@XXXX.com\\\">GXXX@XXXX.com</a>, fax: 5555555557</p><p><b>gender</b>: male</p><p><b>birthDate</b>: 1943-01-01</p><p><b>address</b>: </p><ul><li>123 Main Street PITTSBURGH PA 15239 </li><li>456 Murray Avenue PITTSBURGH PA 15217 </li></ul><p><b>maritalStatus</b>: <span title=\\\"Codes: {http://terminology.hl7.org/CodeSystem/v3-NullFlavor UNK}\\\">unknown</span></p><h3>Communications</h3><table class=\\\"grid\\\"><tr><td>-</td><td><b>Language</b></td><td><b>Preferred</b></td></tr><tr><td>*</td><td><span title=\\\"Codes: {urn:ietf:bcp:47 en}\\\">English</span></td><td>true</td></tr></table><p><b>managingOrganization</b>: <a href=\\\"Organization-PayerOrganizationExample1.html\\\">UPMC Health Plan. Generated Summary: NAIC Code: 95216; active; <span title=\\\"Codes: {http://terminology.hl7.org/CodeSystem/organization-type pay}\\\">Payer</span>; name: UPMC Health Plan; Phone: 1-844-220-4785 TTY: 711, Phone: 1-866-406-8762</a></p></div>\"\n  },\n  \"identifier\": [\n    {\n      \"type\": {\n        \"coding\": [\n          {\n            \"system\": \"http://terminology.hl7.org/CodeSystem/v2-0203\",\n            \"code\": \"MB\",\n            \"display\": \"Member Number\"\n          }\n        ],\n        \"text\": \"An identifier for the insured of an insurance policy (this insured always has a subscriber), usually assigned by the insurance carrier.\"\n      },\n      \"system\": \"https://www.upmchealthplan.com/fhir/memberidentifier\",\n      \"value\": \"88800933501\",\n      \"assigner\": {\n        \"reference\": \"Organization/PayerOrganizationExample1\",\n        \"display\": \"UPMC Health Plan\"\n      }\n    }\n  ],\n  \"active\": true,\n  \"name\": [\n    {\n      \"family\": \"Test\",\n      \"given\": [\n        \"Member 01\"\n      ]\n    }\n  ],\n  \"telecom\": [\n    {\n      \"system\": \"phone\",\n      \"value\": \"5555555551\",\n      \"rank\": 1\n    },\n    {\n      \"system\": \"phone\",\n      \"value\": \"5555555552\",\n      \"rank\": 2\n    },\n    {\n      \"system\": \"phone\",\n      \"value\": \"5555555553\",\n      \"rank\": 3\n    },\n    {\n      \"system\": \"phone\",\n      \"value\": \"5555555554\",\n      \"rank\": 4\n    },\n    {\n      \"system\": \"phone\",\n      \"value\": \"5555555555\",\n      \"use\": \"home\",\n      \"rank\": 5\n    },\n    {\n      \"system\": \"phone\",\n      \"value\": \"5555555556\",\n      \"use\": \"work\",\n      \"rank\": 6\n    },\n    {\n      \"system\": \"email\",\n      \"value\": \"GXXX@XXXX.com\",\n      \"rank\": 7\n    },\n    {\n      \"system\": \"fax\",\n      \"value\": \"5555555557\",\n      \"rank\": 8\n    }\n  ],\n  \"gender\": \"male\",\n  \"birthDate\": \"1943-01-01\",\n  \"address\": [\n    {\n      \"type\": \"physical\",\n      \"line\": [\n        \"123 Main Street\"\n      ],\n      \"city\": \"PITTSBURGH\",\n      \"state\": \"PA\",\n      \"postalCode\": \"15239\"\n    },\n    {\n      \"type\": \"physical\",\n      \"line\": [\n        \"456 Murray Avenue\"\n      ],\n      \"city\": \"PITTSBURGH\",\n      \"state\": \"PA\",\n      \"postalCode\": \"15217\"\n    }\n  ],\n  \"maritalStatus\": {\n    \"coding\": [\n      {\n        \"system\": \"http://terminology.hl7.org/CodeSystem/v3-NullFlavor\",\n        \"code\": \"UNK\"\n      }\n    ],\n    \"text\": \"unknown\"\n  },\n  \"communication\": [\n    {\n      \"language\": {\n        \"coding\": [\n          {\n            \"system\": \"urn:ietf:bcp:47\",\n            \"code\": \"en\"\n          }\n        ],\n        \"text\": \"English\"\n      },\n      \"preferred\": true\n    }\n  ],\n  \"managingOrganization\": {\n    \"reference\": \"Organization/PayerOrganizationExample1\",\n    \"display\": \"UPMC Health Plan\"\n  }\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://api.1up.health/r4/Patient",
+					"protocol": "https",
+					"host": [
+						"api",
+						"1up",
+						"health"
+					],
+					"path": [
+						"r4",
+						"Patient"
+					]
+				},
+				"description": "You will need to include your OAuth Access Token as a Bearer Token in the Authorization Header which you can store as an environment variables in the upper right corner. To obtain a Access Token, follow steps 1, 2, and 3 (if you are creating under a new user), or steps 2 and 3 (if creating under an existing user). Of if you have a Refresh Token you can follow Step 4.\n\nOnce you have your OAuth Access Token, you can make the following call to create a FHIR Resource (in this case a Patient resource, but you can also obtain other resources as listed here - https://1up.health/dev/reference/fhir-resources) by including the resource elements in the Body of the request"
+			},
+			"response": []
+		},
+		{
+			"name": "6. Get Patient Resource",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://api.1up.health/r4/Patient/",
+					"protocol": "https",
+					"host": [
+						"api",
+						"1up",
+						"health"
+					],
+					"path": [
+						"r4",
+						"Patient",
+						""
+					]
+				},
+				"description": "You will need to include your OAuth Access Token as a Bearer Token in the Authorization Header. To obtain a Access Token, follow steps 1, 2, and 3 (if you are creating under a new user), or steps 2 and 3 (if creating under an existing user). Of if you have a Refresh Token you can follow Step 4.\n\nOnce you have your OAuth Access Token, you can make the following call to obtain a bundle of available FHIR Resources (in this case Patient, but you can also obtain other resources as listed here - https://1up.health/dev/reference/fhir-resources). You can also include https://api.1up.health/fhir/dstu2/Patient/{{resource_id}} when you know the resource id."
+			},
+			"response": []
+		},
+		{
+			"name": "7. Get All Connected Health Systems",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://api.1up.health/connect/system/clinical?client_id={{client_id}}&client_secret={{client_secret}}",
+					"protocol": "https",
+					"host": [
+						"api",
+						"1up",
+						"health"
+					],
+					"path": [
+						"connect",
+						"system",
+						"clinical"
+					],
+					"query": [
+						{
+							"key": "client_id",
+							"value": "{{client_id}}"
+						},
+						{
+							"key": "client_secret",
+							"value": "{{client_secret}}"
+						}
+					]
+				},
+				"description": "Currently 1upHealth supports 1000s of health systems(https://1up.health/health-systems). You can find the full list by querying the endpoint here.\n\nYou will need the client_id and client_secret environment variables configured in the upper right corner."
+			},
+			"response": []
+		},
+		{
+			"name": "8. Provider Search API",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://system-search.1up.health/api/search?query=saltzer",
+					"protocol": "https",
+					"host": [
+						"system-search",
+						"1up",
+						"health"
+					],
+					"path": [
+						"api",
+						"search"
+					],
+					"query": [
+						{
+							"key": "query",
+							"value": "saltzer"
+						}
+					]
+				},
+				"description": "The Provider Search API can be used to make custom provider search interface for patients or retrieve results returned by the above iframe. Plug your access_token (Check out our Quick Start Guide - https://1up.health/dev/quick-start - on how to get access tokens) generated with the client_id and client_secret for the applicaton in the header as a Bearer Token and search term as a query parameter in the url.\n\nhttps://1up.health/dev/doc/provider-search-ui\n\nResult is a list a health systems, clinics, hospitals or doctors for the searched term with 1uphealth system id which can be used to direct an user to a quick connect page or a patient portal (using the same access token) to initiate the login process. Check out our Quick Connect Documentation on how to quick connect."
+			},
+			"response": []
+		},
+		{
+			"name": "9. Bulk Data Export",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://analytics.1up.health/bulk-data/r4/$export",
+					"protocol": "https",
+					"host": [
+						"analytics",
+						"1up",
+						"health"
+					],
+					"path": [
+						"bulk-data",
+						"r4",
+						"$export"
+					]
+				},
+				"description": "Request the analytics bulk-data endpoint with the FHIR® $export operator to retrieve a list of bulk data files for your client application to download.\n\nhttps://1up.health/dev/doc/fhir-bulk-data-export\n\nThis will return at least one bulk data download file for each resource type for which resources exist. This will only return resources that your given application client id and user id have access to. Optionally include a _type query parameter with a comma-separated list of FHIR® resources to limit the types of resources that you want to export, e.g.\n\nhttps://analytics.1up.health/bulk-data/dstu2/$export?_type=Patient,Observation"
+			},
+			"response": []
+		},
+		{
+			"name": "10. Provider Search - public 1up directory",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://api.1up.health/fhir/dstu2/Practitioner?_public=true&name=Jonathan",
+					"protocol": "https",
+					"host": [
+						"api",
+						"1up",
+						"health"
+					],
+					"path": [
+						"fhir",
+						"dstu2",
+						"Practitioner"
+					],
+					"query": [
+						{
+							"key": "_public",
+							"value": "true"
+						},
+						{
+							"key": "name",
+							"value": "Jonathan"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

@@ -1,4 +1,4 @@
-PYCARET IMPLEMENTATION
+# PYCARET IMPLEMENTATION
 
 Purpose
 Implementing/Comparing/Testing all Classification, Regression and Anomaly Detection algorithm on different datasets. Purpose of this project is to get familiar with PyCaret.

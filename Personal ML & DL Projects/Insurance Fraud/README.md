@@ -62,7 +62,7 @@
 
 
 
-Steps to run the model
+> Steps to run the model
 1) Save the raw input file in the Training_Batch_File folder.
 
 2) Save the file to be predicted in the Prediction_Batch_File folder.

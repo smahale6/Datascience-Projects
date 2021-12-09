@@ -1,6 +1,6 @@
 # Insurance Fraud
 
-Given below are the code files that function for this project
+> Given below are the code files that function for this project
 
 1) activity_logger.py - Used to log every activity when the code is run. The class in this file is used in every other file to log activity.
 
@@ -25,14 +25,14 @@ Given below are the code files that function for this project
 11) predict_from_model.py - Here every record in the data is assigned a cluster number from the clustering algorithm used in KMeansClustering step and the best model that was identified in Model_Tuner step is used to predict the y label.
 
 
-Given below are the JSON files used for this project
+> Given below are the JSON files used for this project
 1) schema_training.json - Used as a reference to validate the file type, file name , column names and column data types of the data file that is used for training the model.
 
 2) schema_prediction.json - Used as a reference to validate the file type, file name , column names and column data types of the data file that is used for training the model.
 
 
 
-Given below are the folders setup for this project
+> Given below are the folders setup for this project
 
 1) Training_Batch_File - Used to store input data used for training which will be picked up by raw_data_validation.py for validating the data and file.
 

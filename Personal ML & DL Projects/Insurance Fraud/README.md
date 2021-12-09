@@ -2,7 +2,7 @@
 
 > Given below are the code files that function for this project
 
-1) activity_logger.py - Used to log every activity when the code is run. The class in this file is used in every other file to log activity.
+`1) activity_logger.py - Used to log every activity when the code is run. The class in this file is used in every other file to log activity.
 
 2) raw_data_validation.py - Used to validate the format and the content of data files which includes name of the file and structure of the file.
 
@@ -22,7 +22,7 @@
 
 10) prediction_validation_insertion.py - Used to validate prediction data. Central location for running  raw_data_validation.py, database_activity.py and folder_management.py  using data in Prediction_Batch_Files folder for data validationa and insertion.
 
-11) predict_from_model.py - Here every record in the data is assigned a cluster number from the clustering algorithm used in KMeansClustering step and the best model that was identified in Model_Tuner step is used to predict the y label.
+11) predict_from_model.py - Here every record in the data is assigned a cluster number from the clustering algorithm used in KMeansClustering step and the best model that was identified in Model_Tuner step is used to predict the y label.`
 
 
 > Given below are the JSON files used for this project

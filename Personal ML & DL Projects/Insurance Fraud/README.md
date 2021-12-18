@@ -58,7 +58,7 @@
 
 10) Training_Logs - Used to store the file that logs all the activites of a the code while training and validation the data.
 
-11) Prediction_Logs - Used to store the file that logs all the activites of a the code while predictiongand validation the data.
+11) Prediction_Logs - Used to store the file that logs all the activites of a the code while prediction and validation the data.
 
 
 

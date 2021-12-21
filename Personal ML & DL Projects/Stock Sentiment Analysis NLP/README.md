@@ -6,8 +6,11 @@ To build a classification model using Natural Language Processing techniques to 
 ## Data Details
 1)	The data in consideration is a combination of world news and stock price shifts available in Kaggle.
 https://www.kaggle.com/aaron7sun/stocknews
+
 2)	There are 25 columns of top news headlines for each day in the dataframe.
+
 3)	The data ranges from 2008 to 2016.
+
 4)	Labels are based on Dow Jones industrial Average Stock Index. 
 Class 0  The stock price increased.
 Class 1  The stock price decreased.

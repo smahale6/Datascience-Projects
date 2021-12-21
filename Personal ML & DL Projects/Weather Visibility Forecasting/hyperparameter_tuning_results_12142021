@@ -1,0 +1,14 @@
+,model,best_score,best_params,best_estimators
+0,Linear_Regression,0.25244314083664504,{},LinearRegression()
+1,Random_Forest,0.576989452854715,"{'max_depth': 10, 'max_features': 'sqrt', 'min_samples_leaf': 5, 'min_samples_split': 100, 'n_estimators': 30}","RandomForestRegressor(max_depth=10, max_features='sqrt', min_samples_leaf=5,
+                      min_samples_split=100, n_estimators=30)"
+2,Decision_Tree,0.45566626878087996,"{'max_depth': 10, 'max_features': 'sqrt', 'max_leaf_nodes': 60, 'min_samples_leaf': 2, 'min_weight_fraction_leaf': 0.1, 'splitter': 'best'}","DecisionTreeRegressor(max_depth=10, max_features='sqrt', max_leaf_nodes=60,
+                      min_samples_leaf=2, min_weight_fraction_leaf=0.1)"
+3,XG_Boost,0.5749524452428671,"{'learning_rate': '0.1', 'max_depth': 5, 'min_child_weight': 7, 'n_estimators': 44, 'subsample': 0.6}","XGBRegressor(base_score=0.5, booster='gbtree', colsample_bylevel=1,
+             colsample_bynode=1, colsample_bytree=1, gamma=0, gpu_id=-1,
+             importance_type='gain', interaction_constraints='',
+             learning_rate='0.1', max_delta_step=0, max_depth=5,
+             min_child_weight=7, missing=nan, monotone_constraints='()',
+             n_estimators=44, n_jobs=12, num_parallel_tree=1, random_state=0,
+             reg_alpha=0, reg_lambda=1, scale_pos_weight=1, subsample=0.6,
+             tree_method='exact', validate_parameters=1, verbosity=None)"

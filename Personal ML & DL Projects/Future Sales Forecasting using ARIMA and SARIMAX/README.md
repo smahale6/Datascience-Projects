@@ -6,6 +6,7 @@ Data Details
   3)	The data ranges from 1964 to 1972.
 
 Steps Implemented in Model
+
 Step 1: Imported the data into a pandas dataframe and performed data cleaning on all features. The steps 
              include renaming columns, changing datatypes, and replacing nulls with blank space.
              

@@ -14,7 +14,7 @@ Given below are the code files that function for this project
 
 7) KMeansClustering.py - Meant to locate cluster knee and create cluster on the input data provided.
 
-8) Model_Tuner.py - Code for hyperparameter tuning using different classification models.
+8) Model_Tuner.py - Code for hyperparameter tuning using different regression models.
 
 9) Train_Model.py - Central location to run the combination of preprocessing.py, KMeansClustering.py and Model_Tuner.py to preprocess and cluster the data, run the best model obtained through hyperparameterytuning on each cluster.
 

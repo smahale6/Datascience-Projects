@@ -30,7 +30,8 @@
 
 2) schema_prediction.json - Used as a reference to validate the file type, file name , column names and column data types of the data file that is used for training the model.
 
-
+> Given below are the txt files used for this project
+1) requirements.txt - Includes all the python modules required for this project
 
 > Given below are the folders setup for this project
 
@@ -65,15 +66,15 @@
 > Steps to run the model
 1) Open Anaconda prompt and create a new environment using the command below. (Use Python 3.6)
 	
-	conda create -n myenv python=3.6
+	`conda create -n myenv python=3.6`
 
 2) Activate the environment using the command below.
 
-	conda activate myenv
+	`conda activate myenv`
 
 3) Install all the packages mentioned in the requirement.txt file in the environment created using the command below.
 
-	pip install -r requirements.txt
+	`pip install -r requirements.txt`
 
 4) Save the raw input file in the Training_Batch_File folder.
 

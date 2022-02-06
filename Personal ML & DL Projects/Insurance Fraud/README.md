@@ -63,12 +63,24 @@
 
 
 > Steps to run the model
-1) Save the raw input file in the Training_Batch_File folder.
+1) Open Anaconda prompt and create a new environment using the command below. (Use Python 3.6)
+	
+	conda create -n myenv python=3.6
 
-2) Save the file to be predicted in the Prediction_Batch_File folder.
+2) Activate the environment using the command below.
 
-3) Run the file Train_Model.py
+	conda activate myenv
 
-4) Run the file predict_from_model.py
+3) Install all the packages mentioned in the requirement.txt file in the environment created using the command below.
 
-5) Look at the Prediction_Output folder for output.
+	pip install -r requirements.txt
+
+4) Save the raw input file in the Training_Batch_File folder.
+
+5) Save the file to be predicted in the Prediction_Batch_File folder.
+
+6) Run the file Train_Model.py
+
+7) Run the file predict_from_model.py
+
+8) Look at the Prediction_Output folder for output.

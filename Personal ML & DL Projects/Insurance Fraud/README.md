@@ -28,7 +28,7 @@
 > Given below are the JSON files used for this project
 1) schema_training.json - Used as a reference to validate the file type, file name , column names and column data types of the data file that is used for training the model.
 
-2) schema_prediction.json - Used as a reference to validate the file type, file name , column names and column data types of the data file that is used for training the model.
+2) schema_prediction.json - Used as a reference to validate the file type, file name , column names and column data types of the data file that is used for predicting  the model.
 
 > Given below are the txt files used for this project
 1) requirements.txt - Includes all the python modules required for this project
